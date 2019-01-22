@@ -4,7 +4,7 @@
 
 hello, I don't like GitHub but I have to use it
 
-![](images/digital-huge-manatees.jpg)
+![](images/341a69a52dfdace8ffc671b0b743-is-the-wall-street-journal-stupid.jpg)
 
 ## Blog post
 
