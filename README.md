@@ -2,6 +2,6 @@
 
 ##about me
 
-hello, I don't like GitHub
+hello, I don't like GitHub but I have to use it
 
 
