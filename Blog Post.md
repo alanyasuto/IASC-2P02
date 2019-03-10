@@ -4,7 +4,7 @@
 ## Prompt:As Kirschenbaum, Alvarado, and Ramsay have variously argued, the digital humanities draws from a number of established disciplines and research methods. This is a terrible idea. Digital humanities research attempts to combine two things that are fundamentally incompatible: the sciences and the humanities. Empirical or scientific approaches believe in objective facts that stand on their own; humanities approaches believe that all truth exists from a subjective, human perspective. These two approaches are fundamentally at odds with each other, and they can never be combined. Give it up, dh!
 
 
-![](images/blog.png)
+![](images/blog post.png)
 
 
 Digital humanities are an interdisciplinary field that is concerned with the intersection of knowledge management, computer science, and a range of humanities disciplines (Steiner et al, 2014, p. 53). Digital humanities “involves investigation, analysis, synthesis and presentation of information in electronic form,” (Kirschenbaum). Many cultural heritage collections have been made available online, because of recent large-scale digitisations initiatives. However, like other sciences, digital humanities are a “social undertaking” with networks of people working together and sharing their research, arguing, competing, and collaborating (Kirschenbaum). It deals with the idea of collecting information in an effort for a better understanding. It is a way to provide more insight into the areas of interest. 
