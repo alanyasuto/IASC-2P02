@@ -1,3 +1,3 @@
-# Pecha Kucha Presentation
+# Solo Presentation
 
-http://slides.com/alani-jenchang/deck-1-2?ref=share#/
+[Amphibious Vehicle: The History and Future for Boat-cars] (http://slides.com/alani-jenchang/deck-1-2?ref=share#/)
