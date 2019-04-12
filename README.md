@@ -7,7 +7,7 @@ I am a fourth year student in the IASC program at Brock University. My research 
 
 ## Featured Project: [Amphibious Vehicle: The History and Future for Boat-cars]
 
-![](images/solo presentation.JPG)
+![](images/solopresentation.JPG)
 
 Here are 250 words introducing this work.
 
@@ -20,7 +20,7 @@ Here is my 100-word project description.
 
 Here is my 250-word collaboration statement. I approach collaboration in many ways, which is reflected in the Introduction (available [here](https://docs.google.com/presentation/d/1K_w0ljlTMxzwfYLaGKy1qS0yovBPPB5DO-beAu8LsIs/edit#slide=id.g4eb4df3e41_0_119)). I also approach collaboration in a ways, which is reflected in Initial Reserach and Findings (available [here](https://docs.google.com/presentation/d/1K_w0ljlTMxzwfYLaGKy1qS0yovBPPB5DO-beAu8LsIs/edit#slide=id.g4ed3d71a8f_0_55)). 
 
-![](images/group presentation.JPG)
+![](images/grouppresentation.JPG)
 
 
 ## Research Presentation
