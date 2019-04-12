@@ -2,7 +2,7 @@
 
 ## Bio
 
-I am a fourth year student in the IASC program at Brock University. My research areas are Modernist Journals Project,academic post and researches for amohibious vehicles, and my research program involves doing PowerPoint and academic researches with text analysis tools. This research focus is reflected in my projects in this portoflio, such as project a that looks at b. Similarly, project c looks at d. I'd like to continue with this work in the future by doing x.
+I am a fourth year student in the IASC program at Brock University. My research areas are Modernist Journals Project,academic post and researches for amohibious vehicles, and my research program involves doing PowerPoint and academic researches with text analysis tools. This research focus is reflected in my projects in this portoflio, such as my featured which talk about the history of amphibious vehicle. Similarly, group project Modernist Journals Project looks at Initial Researches and Findings. I'd like to continue with this work in the future by doing academic researches.
 
 
 ## Featured Project: [Amphibious Vehicle: The History and Future for Boat-cars]
@@ -11,7 +11,7 @@ I am a fourth year student in the IASC program at Brock University. My research 
 
 Here are 250 words introducing this work.
 
-Here is my 250-word statement describing how this research evolved over time. I made these changes, which you can see [here](https://github.com/IascAtBrock/IASC-2P02/commit/e988a63313929f7cbc1ec1fcda305aa3e536a342). I also made these changes, which you can see [here](https://github.com/IascAtBrock/IASC-2P02/commit/a778e6e587cb17d99e430e18bae3e4e0d0d128b5). I also made these changes, which you can see [here](https://github.com/IascAtBrock/IASC-2P02/commit/2a63e808d7e977fbf58a29a5626189876dbf1934). Overall these changes show x and y changes in my thinking.
+Here is my 250-word statement describing how this research evolved over time. I made these changes, which you can see [here](https://slides.com/alani-jenchang/deck-1-2#/). You can compare with the [old](https://slides.com/alani-jenchang/deck-1#/) one. Overall these changes show x and y changes in my thinking.
 
 
 ## Collaborative Project:Modernist Journals Project
