@@ -10,6 +10,8 @@ I am a fourth year student in the IASC program at Brock University. My research 
 ![](images/solopresentation.JPG)
 
 This is a 15x20 Pecha Kucha presentation about the history and futures of amphibious vehicle's evolution. This was my first time to hear and to experience the Pecha Kucha presentation. I did a lot of academic researches and read related articles about amphibious vehicle. I also learned how to add pictures, texts and edit slides on reveal.js and learned how to present a Pecha Kucha Presentation by watching Youtube and visit their official website. However, I still had some misunderdtandings for both of syllabus and Pecha Kucha Presentation itself.
+
+
 Based on the professor's feedback, I almost changed everything for my presentation slides,which you can see [here](https://slides.com/alani-jenchang/deck-1-2#/). I followed Pecha Kucha format to delete most of texts, expand pictures, and made slides can auto advance to show now. You can compare with the [old](https://slides.com/alani-jenchang/deck-1#/) one. Overall these changes show both inside and outside changes in my thinking and I would like to make a Pecha Kucha presentation again in the future if I have chance.
 
 
